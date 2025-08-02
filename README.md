@@ -1,1 +1,1 @@
-This circuit safely conditions and amplifies a guitar-level signal, processes it through adjustable filtering and effectst stages, and outputs a line-level signal, using only resistors, capacitors, and op-amps for all active stages.
+This circuit safely conditions and amplifies a guitar-level signal, processes it through adjustable filtering and effects stages, and outputs a line-level signal, using only resistors, capacitors, and op-amps for all active stages.
